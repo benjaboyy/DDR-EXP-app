@@ -1,0 +1,27 @@
+{
+  "short_name": "DDR-EXP",
+  "name": "DDR-EXP Arcade",
+  "icons": [
+    {
+      "src": "img/exp-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/exp-icon-192.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://ddrexp.nl/pwa/",
+  "background_color": "#4a7eb7",
+  "display": "standalone",  
+  "display_mode": "standalone",
+  "scope_url": "https://ddrexp.nl/pwa/",
+  "intent_filters": {
+    "scope_url_scheme": "https",
+    "scope_url_host": "ddrexp.nl",
+    "scope_url_path": "/pwa/"
+  },
+  "theme_color": "#5e4270"
+}
