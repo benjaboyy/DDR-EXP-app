@@ -6,7 +6,7 @@
 <!--        <img src="https://via.placeholder.com/1000x300" class="img-fluid" alt="...">-->
         <p class="text-secondary">There are a lot of websites, blogs, and chats depending on wich game you are into.</p>
         <h3 class="text-secondary">Joint us</h3>
-        <a href="https://google.com" class="custom-card">
+        <a href="https://discord.gg/y8fDsxa6Aj" class="custom-card">
             <div class="card bg-secondary col-12 mb-3">
               <div class="card-body text-light">
                 <h5 class="card-title">Discord <small>DDR-EXP</small></h5>
